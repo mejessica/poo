@@ -1,1 +1,2 @@
-# poo
+# poo 🤍
+programaçao orientada a objetos
