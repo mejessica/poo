@@ -1,7 +1,5 @@
 public class Aluno {
 	
-	
-
 	String nome;
 	int idade;
 	int nota1;
@@ -23,8 +21,7 @@ public class Aluno {
 			this.nota3 = nota;
 			this.notasInseridas++;
 		}
- }
-	
+ 	}
 	double calculaMedia() {
 		return (this.nota1 + this.nota2 + this.nota3) / (double) this.notasInseridas;
 	
